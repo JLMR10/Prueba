@@ -1,4 +1,4 @@
-# Prueba
+# Un ejemplo
 
 Inicio
 
